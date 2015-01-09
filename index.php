@@ -33,15 +33,15 @@ public $manufacture = "Honda";
 public $color = "red";
 public $year = "1991";
 public $model = "LX";
-
 }
+
 
 //lecture2\
 class soccer {
-public $team;
-public $league;
-function __construct($team, $league)
-};
+public $team ;
+public $league ;
+function __construct ( $team, $league)
+}
 {
 
 $this>
@@ -96,4 +96,5 @@ show}" .
 network}";
 }
 }
+
 
