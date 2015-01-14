@@ -18,5 +18,10 @@ function __construct($Honda, $Nissan, $Lexus, $Mitsubishi, $Subaru){
         
         
     }
-
+    function getName(){
+        return "this car is a " .$this-> Nissan ;
+        return "this car is a " .$this-> Honda  ;
+    
+    }
+    
 }

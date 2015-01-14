@@ -41,7 +41,7 @@ class soccer {
 public $team ;
 public $league ;
 function __construct ( $team, $league)
-}
+
 {
 
 $this>
