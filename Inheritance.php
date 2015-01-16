@@ -22,5 +22,13 @@ class Cars {
     function getName() {
         return "this car is a " . $this->Nissan;
     }
+    class fish extends{
+return "this car is a " . $this->white . "fish";
+
+}
+class fish extends{
+return "this car is a " . $this->white . "fish";
+
+}
     
   }
